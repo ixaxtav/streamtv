@@ -12,7 +12,5 @@ A streaming platform created with react-redux where you can watch streaming vide
 
 ## Demo
 
-not available at the moment
+not available at the moment.
 
-
-npm start
